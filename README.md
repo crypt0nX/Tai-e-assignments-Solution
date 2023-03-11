@@ -15,3 +15,5 @@ If you want to do the assignments, please start with "*Overview of Tai-e Assignm
 2022.3.6 Still Working...
 
 2022.3.7 A1 Finished!🎉
+
+2022.3.11 A2 Finished!🎉
